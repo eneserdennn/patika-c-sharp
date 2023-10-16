@@ -1,0 +1,14 @@
+/Users/eneserden/Desktop/Pratikler/console-programming/bin/Debug/net7.0/console-programming
+/Users/eneserden/Desktop/Pratikler/console-programming/bin/Debug/net7.0/console-programming.deps.json
+/Users/eneserden/Desktop/Pratikler/console-programming/bin/Debug/net7.0/console-programming.runtimeconfig.json
+/Users/eneserden/Desktop/Pratikler/console-programming/bin/Debug/net7.0/console-programming.dll
+/Users/eneserden/Desktop/Pratikler/console-programming/bin/Debug/net7.0/console-programming.pdb
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfoInputs.cache
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.AssemblyInfo.cs
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.csproj.CoreCompileInputs.cache
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.dll
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/refint/console-programming.dll
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.pdb
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/console-programming.genruntimeconfig.cache
+/Users/eneserden/Desktop/Pratikler/console-programming/obj/Debug/net7.0/ref/console-programming.dll
